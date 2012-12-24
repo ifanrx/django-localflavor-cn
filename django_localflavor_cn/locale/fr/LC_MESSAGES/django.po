@@ -1,0 +1,48 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+#   <claude@2xlibre.net>, 2011, 2012.
+# Claude Paroz <claude@2xlibre.net>, 2011.
+# claudep <claude@2xlibre.net>, 2011.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-cn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:41-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: claudep <claude@2xlibre.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+#: forms.py:84
+msgid "Enter a post code in the format XXXXXX."
+msgstr "Saisissez un code postal au format XXXXXX."
+
+#: forms.py:105
+msgid "ID Card Number consists of 15 or 18 digits."
+msgstr "Le numéro de carte d'identité consiste en 15 ou 18 chiffres."
+
+#: forms.py:106
+msgid "Invalid ID Card Number: Wrong checksum"
+msgstr "Numéro de carte d'identité non valide : mauvaise somme de contrôle"
+
+#: forms.py:107
+msgid "Invalid ID Card Number: Wrong birthdate"
+msgstr "Numéro de carte d'identité non valide : mauvaise date de naissance"
+
+#: forms.py:108
+msgid "Invalid ID Card Number: Wrong location code"
+msgstr "Numéro de carte d'identité non valide : mauvais code d'emplacement"
+
+#: forms.py:193
+msgid "Enter a valid phone number."
+msgstr "Saisissez un numéro de téléphone valide."
+
+#: forms.py:210
+msgid "Enter a valid cell number."
+msgstr "Saisissez un numéro de portable valide."

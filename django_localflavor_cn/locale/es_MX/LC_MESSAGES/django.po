@@ -1,0 +1,48 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Abraham Estrada <abraham.estrada@gmail.com>, 2011, 2012.
+# msmtotti <figo10mexico@gmail.com>, 2011.
+# zodman <zodman@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-cn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:42-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Abraham Estrada <abraham.estrada@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:84
+msgid "Enter a post code in the format XXXXXX."
+msgstr "Introduzca un código postal en el formato de XXXXXX."
+
+#: forms.py:105
+msgid "ID Card Number consists of 15 or 18 digits."
+msgstr "El número de tarjeta de identificación consta de 15 o 18 dígitos."
+
+#: forms.py:106
+msgid "Invalid ID Card Number: Wrong checksum"
+msgstr "Número de Tarjeta de Identificación Inválido: Comprobación incorrecta"
+
+#: forms.py:107
+msgid "Invalid ID Card Number: Wrong birthdate"
+msgstr "Número de Tarjeta de Identificación Inválido: Fecha incorrecta"
+
+#: forms.py:108
+msgid "Invalid ID Card Number: Wrong location code"
+msgstr ""
+"Número de Tarjeta de Identificación Inválido: Código de ubicación incorrecto"
+
+#: forms.py:193
+msgid "Enter a valid phone number."
+msgstr "Introduzca un número de teléfono válido."
+
+#: forms.py:210
+msgid "Enter a valid cell number."
+msgstr "Introduzca un número de teléfono celular válido."

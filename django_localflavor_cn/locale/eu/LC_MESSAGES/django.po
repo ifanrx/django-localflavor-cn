@@ -1,0 +1,46 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Aitzol Naberan <anaberan@codesyntax.com>, 2012.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-cn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:41-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Aitzol Naberan <anaberan@codesyntax.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: forms.py:84
+msgid "Enter a post code in the format XXXXXX."
+msgstr "Sartu posta kodea XXXXXX formatuan."
+
+#: forms.py:105
+msgid "ID Card Number consists of 15 or 18 digits."
+msgstr "ID Txartel Zenbakiak 15 edo 18 digitu dauzka."
+
+#: forms.py:106
+msgid "Invalid ID Card Number: Wrong checksum"
+msgstr "ID Txartel Zenbaki okerra: konprobazio batura ez da zuzena"
+
+#: forms.py:107
+msgid "Invalid ID Card Number: Wrong birthdate"
+msgstr "ID Txartel Zenbaki okerra: jaiotza data ez da zuzena"
+
+#: forms.py:108
+msgid "Invalid ID Card Number: Wrong location code"
+msgstr "ID Txartel Zenbaki okerra: kokalekua ez da zuzena"
+
+#: forms.py:193
+msgid "Enter a valid phone number."
+msgstr "Sartu telefono zenbaki zuzen bat."
+
+#: forms.py:210
+msgid "Enter a valid cell number."
+msgstr "Saru mugikor zenbaki zuzen bat."

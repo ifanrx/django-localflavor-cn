@@ -1,0 +1,49 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# angularcircle <angular.circle@gmail.com>, 2011.
+#   <angular.circle@gmail.com>, 2012.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# konryd <konryd@gmail.com>, 2011.
+# Roman Barczyński <rombar@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-cn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:41-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Roman Barczyński <rombar@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: forms.py:84
+msgid "Enter a post code in the format XXXXXX."
+msgstr "Wprowadź kod pocztowy w formacie XXXXXX."
+
+#: forms.py:105
+msgid "ID Card Number consists of 15 or 18 digits."
+msgstr "Nr dowodu składa się z 15 lub 18 cyfr."
+
+#: forms.py:106
+msgid "Invalid ID Card Number: Wrong checksum"
+msgstr "Niepoprawny nr dowodu: zła suma kontrolna"
+
+#: forms.py:107
+msgid "Invalid ID Card Number: Wrong birthdate"
+msgstr "Niepoprawny nr dowodu: zła data urodzenia"
+
+#: forms.py:108
+msgid "Invalid ID Card Number: Wrong location code"
+msgstr "Niepoprawny nr dowodu: zły kod lokacji"
+
+#: forms.py:193
+msgid "Enter a valid phone number."
+msgstr "Wprowadź poprawny numer telefonu."
+
+#: forms.py:210
+msgid "Enter a valid cell number."
+msgstr "Wprowadź poprawny numer telefonu komórkowego."
